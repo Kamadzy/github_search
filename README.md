@@ -1,0 +1,1 @@
+This project on vanila JS. In this project I am using async/await and fetch to understand this features. 
